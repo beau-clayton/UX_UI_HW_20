@@ -31,7 +31,9 @@
     .nav-links {
         color: white;
     }
-
+    .nav-links:hover {
+        color: aqua;
+    }
     h1 { 
         font-size: 36px/30px;
         color: #ffffff;
