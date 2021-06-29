@@ -48,6 +48,9 @@
     h2 {
         color: #ffffff;
         font-family: bold 30px/35px Helvetica;
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
     
     h3 {color: #ffffff;
@@ -63,7 +66,25 @@
         font-family: helvetica, sans-serif;
 
     }
+    .card .card-deck .card-body{
+        background-color: none;
+        border: none;
+        border-color: none;
+    }
+    .card-body {
+        border: none;
+    }
     
+
+
+
+
+
+
+
+
+
+
     
     
     /* NAV */
