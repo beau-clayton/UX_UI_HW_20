@@ -1,0 +1,114 @@
+* {box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #24252a;
+    }
+    
+
+    .display-4 .container {
+        background-color: none;
+            }
+    
+            .p {
+                color: white;
+                background-color: none;
+            }
+    
+            .nav .justify-content-center {
+                padding-top: 10px;
+                padding-bottom: 40px;
+                background-color: none;
+            }
+
+            .jumbotron .jumbotron-fluid {
+               margin: 0;
+                background-color: white;
+            }
+.lead {
+    color: white;
+    background-color: none;
+}
+    .nav-links {
+        color: white;
+    }
+
+    h1 { 
+        font-size: 36px/30px;
+        color: #ffffff;
+        letter-spacing: 3.6px;
+        text-transform: uppercase;
+        font-family: gravesend-sans, helvetica, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        text-align: center;
+    }
+    
+    h2 {
+        color: #ffffff;
+        font-family: bold 30px/35px Helvetica;
+    }
+    
+    h3 {color: #ffffff;
+        font-family: bold 22px/25px Helvetica;
+    
+    }
+    h4 {color: white;
+        font-size:14px/20px; 
+        font-family: helvetica, sans-serif;}
+    
+    p { color: white;
+        font-size:14px/16px; 
+        font-family: helvetica, sans-serif;
+
+    }
+    
+    
+    
+    /* NAV */
+    
+    li, a {
+        text-transform: uppercase;
+        font-family: gravesend-sans, helvetica, sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        align-items: center;
+    }
+    
+    header { 
+        display: flex;
+        justify-content: space-between;
+            padding: 30px 11%;
+    }
+    
+    .logo {
+       cursor: pointer; 
+       height: 30px;
+       align-items: center;
+       justify-content: center;
+    }
+    
+    .nav_links {
+        list-style: none;
+        align-items: center;
+        text-align: center;
+        padding: auto;
+       
+    }
+    
+    .nav_links li {
+        display: inline-block;
+        padding: 0px 20px;
+    }
+    
+    .nav_links li a:hover {
+        color: #38D681;
+        transition: all 0.3s ease 0s;
+    }
+    
+    /*hero*/
+   
+    
+   
